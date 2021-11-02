@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "getcroc",
+    "url": "https://getcroc.schollz.com/",
+    "icon": "https://favicons.githubusercontent.com/getcroc.schollz.com",
+    "slug": "getcroc",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 373,
+    "timeDay": 373,
+    "timeWeek": 373,
+    "timeMonth": 373,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   }
 ]
