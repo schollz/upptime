@@ -5,6 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: getcroc
     url: https://getcroc.schollz.com/
+  - name: findabooktoread.com
+    url: https://findabooktoread.com/
+  - name: pianos.pub
+    url: https://pianos.pub/
+  - name: schollz.com
+    url: https://schollz.com/
+  - name: teoperator.com
+    url: https://teoperator.com/
+  - name: poetrygenerator
+    url: https://www.poetrygenerator.ninja/
+  - name: whowillmatch
+    url: https://whowillmatchmydonation.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
