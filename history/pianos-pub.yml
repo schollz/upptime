@@ -1,7 +1,7 @@
 url: https://pianos.pub/
-status: up
-code: 200
-responseTime: 376
-lastUpdated: 2021-11-08T23:10:12.033Z
+status: down
+code: 502
+responseTime: 348
+lastUpdated: 2021-11-09T20:00:01.917Z
 startTime: Tue Nov 02 2021 20:37:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
