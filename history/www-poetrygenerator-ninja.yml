@@ -1,7 +1,7 @@
 url: https://www.poetrygenerator.ninja/
-status: up
-code: 200
-responseTime: 84
-lastUpdated: 2021-12-01T23:10:24.188Z
+status: down
+code: 502
+responseTime: 270
+lastUpdated: 2021-12-02T00:53:26.353Z
 startTime: Tue Nov 02 2021 20:42:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
