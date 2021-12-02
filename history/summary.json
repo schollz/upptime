@@ -130,18 +130,18 @@
     "icon": "https://favicons.githubusercontent.com/www.poetrygenerator.ninja",
     "slug": "www-poetrygenerator-ninja",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 319,
     "timeDay": 177,
     "timeWeek": 207,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-12-02": 0
+      "2021-12-02": 15
     }
   },
   {
