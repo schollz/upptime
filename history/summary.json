@@ -22,15 +22,15 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://favicons.githubusercontent.com/findabooktoread.com",
     "slug": "findabooktoread-com",
-    "status": "up",
-    "uptime": "93.64%",
-    "uptimeDay": "78.67%",
+    "status": "down",
+    "uptime": "93.74%",
+    "uptimeDay": "78.66%",
     "uptimeWeek": "85.10%",
-    "uptimeMonth": "89.84%",
-    "uptimeYear": "93.64%",
+    "uptimeMonth": "89.99%",
+    "uptimeYear": "93.74%",
     "time": 530,
-    "timeDay": 332,
-    "timeWeek": 464,
+    "timeDay": 333,
+    "timeWeek": 462,
     "timeMonth": 563,
     "timeYear": 530,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
       "2021-12-05": 275,
       "2021-12-04": 185,
       "2021-12-03": 221,
-      "2021-12-02": 180
+      "2021-12-02": 116
     }
   },
   {
@@ -183,18 +183,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.internalpositioning.com",
     "slug": "cloud-internalpositioning-com",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "22.97%",
-    "uptimeWeek": "89.00%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.24%",
+    "uptimeDay": "16.42%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "98.24%",
     "time": 438,
     "timeDay": 655,
     "timeWeek": 557,
     "timeMonth": 470,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2021-12-21": 622,
+      "2021-12-21": 716,
       "2021-12-20": 487,
       "2021-11-06": 26
     }
