@@ -13,7 +13,7 @@
     "time": 332,
     "timeDay": 411,
     "timeWeek": 261,
-    "timeMonth": 312,
+    "timeMonth": 310,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -22,12 +22,12 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://favicons.githubusercontent.com/findabooktoread.com",
     "slug": "findabooktoread-com",
-    "status": "up",
-    "uptime": "92.44%",
-    "uptimeDay": "75.38%",
-    "uptimeWeek": "43.67%",
-    "uptimeMonth": "77.85%",
-    "uptimeYear": "92.44%",
+    "status": "down",
+    "uptime": "92.47%",
+    "uptimeDay": "75.37%",
+    "uptimeWeek": "43.75%",
+    "uptimeMonth": "77.93%",
+    "uptimeYear": "92.47%",
     "time": 1011,
     "timeDay": 1228,
     "timeWeek": 1822,
@@ -44,7 +44,7 @@
       "2022-01-23": 1249,
       "2022-01-22": 1147,
       "2022-01-21": 1132,
-      "2022-01-20": 535
+      "2022-01-20": 502
     }
   },
   {
@@ -61,7 +61,7 @@
     "time": 663,
     "timeDay": 364,
     "timeWeek": 994,
-    "timeMonth": 973,
+    "timeMonth": 985,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2022-01-30": 16,
@@ -100,7 +100,7 @@
     "time": 291,
     "timeDay": 395,
     "timeWeek": 250,
-    "timeMonth": 305,
+    "timeMonth": 303,
     "timeYear": 291,
     "dailyMinutesDown": {}
   },
@@ -118,7 +118,7 @@
     "time": 314,
     "timeDay": 447,
     "timeWeek": 289,
-    "timeMonth": 345,
+    "timeMonth": 342,
     "timeYear": 314,
     "dailyMinutesDown": {}
   },
@@ -136,7 +136,7 @@
     "time": 307,
     "timeDay": 367,
     "timeWeek": 241,
-    "timeMonth": 335,
+    "timeMonth": 324,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2021-12-03": 676,
@@ -157,7 +157,7 @@
     "time": 308,
     "timeDay": 371,
     "timeWeek": 264,
-    "timeMonth": 311,
+    "timeMonth": 309,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 367,
     "timeDay": 399,
     "timeWeek": 255,
-    "timeMonth": 330,
+    "timeMonth": 328,
     "timeYear": 367,
     "dailyMinutesDown": {}
   },
@@ -196,7 +196,7 @@
     "timeMonth": 372,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2022-01-30": 1390,
+      "2022-01-30": 1410,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
       "2022-01-27": 1440,
