@@ -22,16 +22,16 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://favicons.githubusercontent.com/findabooktoread.com",
     "slug": "findabooktoread-com",
-    "status": "up",
-    "uptime": "95.50%",
-    "uptimeDay": "88.55%",
+    "status": "down",
+    "uptime": "95.58%",
+    "uptimeDay": "88.54%",
     "uptimeWeek": "86.51%",
-    "uptimeMonth": "85.80%",
-    "uptimeYear": "95.50%",
+    "uptimeMonth": "86.04%",
+    "uptimeYear": "95.58%",
     "time": 1029,
-    "timeDay": 1345,
-    "timeWeek": 1152,
-    "timeMonth": 1474,
+    "timeDay": 1377,
+    "timeWeek": 1148,
+    "timeMonth": 1473,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2022-02-06": 159,
@@ -47,7 +47,7 @@
       "2022-01-27": 1184,
       "2022-01-26": 1197,
       "2022-01-25": 1236,
-      "2022-01-24": 574
+      "2022-01-24": 469
     }
   },
   {
@@ -203,7 +203,7 @@
     "timeMonth": 341,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2022-02-06": 1209,
+      "2022-02-06": 1227,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
