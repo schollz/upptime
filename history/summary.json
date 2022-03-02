@@ -4,9 +4,9 @@
     "url": "https://getcroc.schollz.com/",
     "icon": "https://favicons.githubusercontent.com/getcroc.schollz.com",
     "slug": "getcroc-schollz-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 282,
     "timeMonth": 257,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "findabooktoread.com",
@@ -141,9 +143,9 @@
     "slug": "www-poetrygenerator-ninja",
     "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.21%",
     "time": 301,
     "timeDay": 330,
@@ -151,7 +153,7 @@
     "timeMonth": 285,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-03-02": 0,
+      "2022-03-02": 7,
       "2021-12-03": 676,
       "2021-12-02": 683
     }
@@ -179,9 +181,9 @@
     "url": "https://norns.online/",
     "icon": "https://favicons.githubusercontent.com/norns.online",
     "slug": "norns-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,7 +192,9 @@
     "timeWeek": 273,
     "timeMonth": 246,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "cloud.internalpositioning.com",
@@ -198,18 +202,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.internalpositioning.com",
     "slug": "cloud-internalpositioning-com",
     "status": "down",
-    "uptime": "39.82%",
+    "uptime": "39.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "39.82%",
+    "uptimeYear": "39.81%",
     "time": 412,
     "timeDay": 455,
     "timeWeek": 472,
     "timeMonth": 381,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2022-03-02": 1251,
+      "2022-03-02": 1258,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
