@@ -15,12 +15,12 @@ sites:
     url: https://teoperator.com/
   - name: www.poetrygenerator.ninja
     url: https://www.poetrygenerator.ninja/
-  - name: whowillmatchmydonation.com
-    url: https://whowillmatchmydonation.com/
   - name: norns.online
     url: https://norns.online/
-  - name: cloud.internalpositioning.com
-    url: https://cloud.internalpositioning.com/
+  - name: averagedrecipe
+    url: https://averagedrecipe.com/
+  - name: cowyo
+    url: https://cowyo.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
