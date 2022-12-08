@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 356,
-    "timeWeek": 256,
-    "timeMonth": 238,
-    "timeYear": 244,
+    "timeDay": 105,
+    "timeWeek": 230,
+    "timeMonth": 234,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2022-03-02": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/findabooktoread.com.ico",
     "slug": "findabooktoread-com",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.21%",
     "time": 859,
-    "timeDay": 352,
-    "timeWeek": 256,
-    "timeMonth": 385,
-    "timeYear": 899,
+    "timeDay": 65,
+    "timeWeek": 221,
+    "timeMonth": 381,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2022-11-29": 929,
       "2022-11-28": 153,
@@ -81,10 +81,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.89%",
-    "time": 482,
-    "timeDay": 655,
-    "timeWeek": 412,
-    "timeMonth": 387,
+    "time": 483,
+    "timeDay": 511,
+    "timeWeek": 432,
+    "timeMonth": 390,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2022-08-30": 1432,
@@ -118,8 +118,7 @@
       "2022-01-04": 19,
       "2021-12-25": 76,
       "2021-12-17": 21,
-      "2021-12-14": 38,
-      "2021-12-08": 19
+      "2021-12-14": 38
     }
   },
   {
@@ -134,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 272,
-    "timeWeek": 210,
-    "timeMonth": 187,
+    "timeDay": 60,
+    "timeWeek": 184,
+    "timeMonth": 183,
     "timeYear": 206,
     "dailyMinutesDown": {}
   },
@@ -152,10 +151,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 269,
-    "timeDay": 431,
-    "timeWeek": 300,
-    "timeMonth": 277,
-    "timeYear": 267,
+    "timeDay": 156,
+    "timeWeek": 270,
+    "timeMonth": 273,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2022-03-02": 27
     }
@@ -172,10 +171,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 304,
-    "timeDay": 340,
-    "timeWeek": 390,
-    "timeMonth": 346,
-    "timeYear": 306,
+    "timeDay": 84,
+    "timeWeek": 372,
+    "timeMonth": 339,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2022-12-03": 37,
       "2022-10-07": 160,
@@ -195,10 +194,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 311,
-    "timeWeek": 247,
-    "timeMonth": 236,
-    "timeYear": 246,
+    "timeDay": 98,
+    "timeWeek": 218,
+    "timeMonth": 232,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2022-03-02": 20
     }
@@ -214,11 +213,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 547,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "time": 322,
+    "timeDay": 179,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -232,11 +231,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 650,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 356,
+    "timeDay": 169,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   }
 ]
