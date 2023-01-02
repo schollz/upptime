@@ -13,7 +13,7 @@
     "time": 246,
     "timeDay": 76,
     "timeWeek": 212,
-    "timeMonth": 216,
+    "timeMonth": 212,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2022-03-02": 20
@@ -24,19 +24,19 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://icons.duckduckgo.com/ip3/findabooktoread.com.ico",
     "slug": "findabooktoread-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.21%",
     "time": 904,
-    "timeDay": 114,
-    "timeWeek": 172,
-    "timeMonth": 197,
+    "timeDay": 108,
+    "timeWeek": 168,
+    "timeMonth": 193,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2023-01-02": 26,
+      "2023-01-02": 37,
       "2023-01-01": 25,
       "2022-12-30": 18,
       "2022-12-13": 27,
@@ -87,8 +87,8 @@
     "time": 475,
     "timeDay": 81,
     "timeWeek": 278,
-    "timeMonth": 359,
-    "timeYear": 475,
+    "timeMonth": 360,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2022-08-30": 1432,
       "2022-08-29": 1440,
@@ -135,7 +135,7 @@
     "time": 212,
     "timeDay": 70,
     "timeWeek": 203,
-    "timeMonth": 187,
+    "timeMonth": 184,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -153,8 +153,8 @@
     "time": 267,
     "timeDay": 101,
     "timeWeek": 247,
-    "timeMonth": 252,
-    "timeYear": 261,
+    "timeMonth": 247,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2022-03-02": 27
     }
@@ -173,8 +173,8 @@
     "time": 305,
     "timeDay": 76,
     "timeWeek": 305,
-    "timeMonth": 336,
-    "timeYear": 305,
+    "timeMonth": 332,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2022-12-03": 37,
       "2022-10-07": 160,
@@ -196,8 +196,8 @@
     "time": 260,
     "timeDay": 79,
     "timeWeek": 201,
-    "timeMonth": 212,
-    "timeYear": 239,
+    "timeMonth": 209,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2022-03-02": 20
     }
