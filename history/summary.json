@@ -25,18 +25,19 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://icons.duckduckgo.com/ip3/findabooktoread.com.ico",
     "slug": "findabooktoread-com",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 933,
-    "timeDay": 3704,
-    "timeWeek": 816,
-    "timeMonth": 361,
-    "timeYear": 946,
+    "timeDay": 235,
+    "timeWeek": 852,
+    "timeMonth": 360,
+    "timeYear": 930,
     "dailyMinutesDown": {
+      "2023-01-15": 0,
       "2023-01-11": 42,
       "2023-01-09": 60,
       "2023-01-02": 26,
@@ -73,7 +74,7 @@
       "2022-02-02": 142,
       "2022-02-01": 119,
       "2022-01-31": 152,
-      "2022-01-30": 224
+      "2022-01-30": 185
     }
   },
   {
