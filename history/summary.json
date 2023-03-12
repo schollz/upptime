@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 241,
     "timeDay": 192,
-    "timeWeek": 218,
-    "timeMonth": 221,
+    "timeWeek": 208,
+    "timeMonth": 217,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2023-01-09": 60
@@ -24,19 +24,19 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://icons.duckduckgo.com/ip3/findabooktoread.com.ico",
     "slug": "findabooktoread-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.49%",
     "time": 421,
-    "timeDay": 181,
-    "timeWeek": 225,
-    "timeMonth": 241,
+    "timeDay": 141,
+    "timeWeek": 217,
+    "timeMonth": 239,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-03-12": 0,
+      "2023-03-12": 14,
       "2023-03-08": 24,
       "2023-03-06": 60,
       "2023-03-02": 26,
@@ -100,7 +100,7 @@
     "time": 454,
     "timeDay": 360,
     "timeWeek": 342,
-    "timeMonth": 380,
+    "timeMonth": 381,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2023-01-09": 60,
@@ -130,7 +130,7 @@
     "time": 210,
     "timeDay": 175,
     "timeWeek": 195,
-    "timeMonth": 212,
+    "timeMonth": 208,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2023-01-09": 60
@@ -150,8 +150,8 @@
     "time": 264,
     "timeDay": 196,
     "timeWeek": 242,
-    "timeMonth": 256,
-    "timeYear": 251,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2023-01-09": 60
     }
@@ -170,8 +170,8 @@
     "time": 300,
     "timeDay": 303,
     "timeWeek": 267,
-    "timeMonth": 298,
-    "timeYear": 304,
+    "timeMonth": 297,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2023-01-09": 60,
       "2022-12-03": 37,
@@ -193,7 +193,7 @@
     "time": 252,
     "timeDay": 205,
     "timeWeek": 195,
-    "timeMonth": 220,
+    "timeMonth": 216,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2023-01-09": 60
@@ -213,7 +213,7 @@
     "time": 325,
     "timeDay": 285,
     "timeWeek": 335,
-    "timeMonth": 357,
+    "timeMonth": 350,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2023-01-09": 60
@@ -233,7 +233,7 @@
     "time": 315,
     "timeDay": 306,
     "timeWeek": 301,
-    "timeMonth": 323,
+    "timeMonth": 318,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2023-01-09": 60
