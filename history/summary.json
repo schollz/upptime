@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 72,
-    "timeWeek": 181,
+    "timeDay": 70,
+    "timeWeek": 177,
     "timeMonth": 214,
-    "timeYear": 217,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2023-01-09": 60
     }
@@ -24,19 +24,19 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://icons.duckduckgo.com/ip3/findabooktoread.com.ico",
     "slug": "findabooktoread-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.48%",
     "time": 417,
-    "timeDay": 206,
-    "timeWeek": 203,
-    "timeMonth": 210,
+    "timeDay": 131,
+    "timeWeek": 196,
+    "timeMonth": 209,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-03-17": 14,
+      "2023-03-17": 0,
       "2023-03-16": 20,
       "2023-03-15": 21,
       "2023-03-08": 24,
@@ -99,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.06%",
     "time": 447,
-    "timeDay": 74,
-    "timeWeek": 278,
-    "timeMonth": 366,
+    "timeDay": 94,
+    "timeWeek": 280,
+    "timeMonth": 361,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2023-01-09": 60,
@@ -129,10 +129,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 55,
-    "timeWeek": 169,
-    "timeMonth": 206,
-    "timeYear": 186,
+    "timeDay": 46,
+    "timeWeek": 167,
+    "timeMonth": 205,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2023-01-09": 60
     }
@@ -148,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 263,
-    "timeDay": 109,
-    "timeWeek": 212,
-    "timeMonth": 249,
-    "timeYear": 250,
+    "time": 264,
+    "timeDay": 140,
+    "timeWeek": 216,
+    "timeMonth": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2023-01-09": 60
     }
@@ -168,10 +168,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 299,
-    "timeDay": 84,
-    "timeWeek": 232,
-    "timeMonth": 294,
+    "time": 298,
+    "timeDay": 95,
+    "timeWeek": 203,
+    "timeMonth": 295,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2023-01-09": 60,
@@ -194,8 +194,8 @@
     "time": 251,
     "timeDay": 66,
     "timeWeek": 170,
-    "timeMonth": 215,
-    "timeYear": 224,
+    "timeMonth": 214,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2023-01-09": 60
     }
@@ -211,11 +211,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 322,
-    "timeDay": 147,
-    "timeWeek": 298,
+    "time": 320,
+    "timeDay": 127,
+    "timeWeek": 299,
     "timeMonth": 349,
-    "timeYear": 322,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2023-01-09": 60
     }
@@ -231,11 +231,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 311,
-    "timeDay": 89,
-    "timeWeek": 279,
-    "timeMonth": 320,
-    "timeYear": 311,
+    "time": 310,
+    "timeDay": 153,
+    "timeWeek": 281,
+    "timeMonth": 321,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2023-01-09": 60
     }
