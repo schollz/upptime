@@ -4,9 +4,9 @@
     "url": "https://getcroc.schollz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/getcroc.schollz.com.ico",
     "slug": "getcroc-schollz-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 186,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-09": 60
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://icons.duckduckgo.com/ip3/findabooktoread.com.ico",
     "slug": "findabooktoread-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.48%",
     "time": 338,
     "timeDay": 136,
-    "timeWeek": 207,
+    "timeWeek": 206,
     "timeMonth": 207,
     "timeYear": 244,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-03-29": 18,
       "2023-03-28": 21,
       "2023-03-27": 29,
@@ -94,9 +96,9 @@
     "url": "https://pianos.pub/",
     "icon": "https://icons.duckduckgo.com/ip3/pianos.pub.ico",
     "slug": "pianos-pub",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.06%",
@@ -106,6 +108,7 @@
     "timeMonth": 293,
     "timeYear": 344,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-09": 60,
       "2022-08-30": 1432,
       "2022-08-29": 1440,
@@ -124,9 +127,9 @@
     "url": "https://schollz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/schollz.com.ico",
     "slug": "schollz-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -136,6 +139,7 @@
     "timeMonth": 172,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-09": 60
     }
   },
@@ -144,9 +148,9 @@
     "url": "https://teoperator.com/",
     "icon": "https://icons.duckduckgo.com/ip3/teoperator.com.ico",
     "slug": "teoperator-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -156,6 +160,7 @@
     "timeMonth": 233,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-09": 60
     }
   },
@@ -164,9 +169,9 @@
     "url": "https://www.poetrygenerator.ninja/",
     "icon": "https://icons.duckduckgo.com/ip3/www.poetrygenerator.ninja.ico",
     "slug": "www-poetrygenerator-ninja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -176,6 +181,7 @@
     "timeMonth": 267,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-09": 60,
       "2022-12-03": 37,
       "2022-10-07": 160
@@ -186,18 +192,19 @@
     "url": "https://norns.online/",
     "icon": "https://icons.duckduckgo.com/ip3/norns.online.ico",
     "slug": "norns-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 235,
+    "time": 234,
     "timeDay": 121,
     "timeWeek": 224,
     "timeMonth": 195,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-09": 60
     }
   },
@@ -206,9 +213,9 @@
     "url": "https://averagedrecipe.com/",
     "icon": "https://icons.duckduckgo.com/ip3/averagedrecipe.com.ico",
     "slug": "averagedrecipe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -218,6 +225,7 @@
     "timeMonth": 305,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-09": 60
     }
   },
@@ -226,9 +234,9 @@
     "url": "https://cowyo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cowyo.com.ico",
     "slug": "cowyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -238,6 +246,7 @@
     "timeMonth": 283,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2023-03-30": 0,
       "2023-01-09": 60
     }
   }
