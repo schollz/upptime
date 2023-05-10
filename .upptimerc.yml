@@ -21,6 +21,10 @@ sites:
     url: https://averagedrecipe.com/
   - name: cowyo
     url: https://cowyo.com/
+  - name: nyblcore
+    url: https://api.nyblcore.com/
+  - name: pikocore
+    url: https://api.pikocore.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
