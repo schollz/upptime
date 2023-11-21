@@ -1,7 +1,7 @@
 url: https://findabooktoread.com/
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 332
-lastUpdated: 2023-11-20T23:02:40.679Z
+lastUpdated: 2023-11-21T17:30:02.019Z
 startTime: 2021-11-02T20:37:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
