@@ -385,19 +385,19 @@
     "url": "https://streammyaudio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/streammyaudio.com.ico",
     "slug": "streammyaudio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 302,
-    "timeWeek": 309,
-    "timeMonth": 293,
-    "timeYear": 294,
+    "time": 295,
+    "timeDay": 330,
+    "timeWeek": 318,
+    "timeMonth": 296,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-12-04": 0
+      "2023-12-04": 8
     }
   }
 ]
