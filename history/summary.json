@@ -221,7 +221,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/averagedrecipe.com.ico",
     "slug": "averagedrecipe",
     "status": "up",
-    "uptime": "91.18%",
+    "uptime": "91.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -351,10 +351,10 @@
     "url": "https://streammyaudio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/streammyaudio.com.ico",
     "slug": "streammyaudio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
@@ -362,6 +362,8 @@
     "timeWeek": 335,
     "timeMonth": 350,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-17": 1
+    }
   }
 ]
