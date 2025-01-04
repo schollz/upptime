@@ -28,10 +28,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/findabooktoread.com.ico",
     "slug": "findabooktoread-com",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.91%",
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 354,
     "timeDay": 282,
@@ -39,7 +39,6 @@
     "timeMonth": 383,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-01-04": 8,
       "2024-12-24": 30,
       "2024-09-11": 17,
       "2024-09-01": 61,
@@ -53,9 +52,9 @@
     "url": "https://pianos.pub/",
     "icon": "https://icons.duckduckgo.com/ip3/pianos.pub.ico",
     "slug": "pianos-pub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -65,6 +64,7 @@
     "timeMonth": 459,
     "timeYear": 405,
     "dailyMinutesDown": {
+      "2025-01-04": 0,
       "2024-09-01": 60,
       "2024-08-07": 22
     }
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-01-04": 1006,
+      "2025-01-04": 1014,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
@@ -399,9 +399,9 @@
     "slug": "cowyo",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 339,
     "timeDay": 384,
@@ -409,7 +409,7 @@
     "timeMonth": 373,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-01-04": 18,
+      "2025-01-04": 26,
       "2024-09-01": 58,
       "2024-08-07": 20
     }
@@ -440,9 +440,9 @@
     "url": "https://api.pikocore.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.pikocore.com.ico",
     "slug": "pikocore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -452,6 +452,7 @@
     "timeMonth": 294,
     "timeYear": 313,
     "dailyMinutesDown": {
+      "2025-01-04": 0,
       "2024-09-01": 57,
       "2024-08-07": 19
     }
