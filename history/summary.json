@@ -54,9 +54,9 @@
     "slug": "pianos-pub",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 391,
     "timeDay": 273,
@@ -64,7 +64,7 @@
     "timeMonth": 459,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-01-04": 0,
+      "2025-01-04": 9,
       "2024-09-01": 60,
       "2024-08-07": 22
     }
@@ -95,9 +95,9 @@
     "url": "https://teoperator.com/",
     "icon": "https://icons.duckduckgo.com/ip3/teoperator.com.ico",
     "slug": "teoperator-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -107,6 +107,7 @@
     "timeMonth": 311,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2025-01-04": 0,
       "2024-09-01": 59,
       "2024-08-07": 21
     }
@@ -128,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-01-04": 1014,
+      "2025-01-04": 1023,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
@@ -399,9 +400,9 @@
     "slug": "cowyo",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 339,
     "timeDay": 384,
@@ -409,7 +410,7 @@
     "timeMonth": 373,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-01-04": 26,
+      "2025-01-04": 35,
       "2024-09-01": 58,
       "2024-08-07": 20
     }
@@ -442,17 +443,17 @@
     "slug": "pikocore",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 293,
     "timeDay": 310,
     "timeWeek": 271,
     "timeMonth": 294,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-01-04": 0,
+      "2025-01-04": 9,
       "2024-09-01": 57,
       "2024-08-07": 19
     }
