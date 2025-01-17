@@ -1,7 +1,7 @@
 url: https://api.nyblcore.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-17T15:28:59.411Z
+status: up
+code: 200
+responseTime: 7284
+lastUpdated: 2025-01-17T15:37:16.407Z
 startTime: 2023-05-10T15:19:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
