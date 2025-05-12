@@ -1,7 +1,7 @@
 url: https://api.pikocore.com/
-status: down
-code: 403
-responseTime: 231
-lastUpdated: 2025-05-12T07:04:16.515Z
+status: up
+code: 200
+responseTime: 193
+lastUpdated: 2025-05-12T07:16:16.423Z
 startTime: 2023-05-10T15:19:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
