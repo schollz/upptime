@@ -1,7 +1,7 @@
 url: https://schollz.com/
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 169
-lastUpdated: 2025-10-01T14:41:10.134Z
+lastUpdated: 2025-10-01T16:23:41.816Z
 startTime: 2021-11-02T20:37:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
