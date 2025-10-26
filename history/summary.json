@@ -4,10 +4,10 @@
     "url": "https://getcroc.schollz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/getcroc.schollz.com.ico",
     "slug": "getcroc-schollz-com",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "85.50%",
-    "uptimeWeek": "96.96%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "85.33%",
+    "uptimeWeek": "96.93%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.58%",
     "time": 314,
@@ -16,7 +16,7 @@
     "timeMonth": 457,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-10-26": 208,
+      "2025-10-26": 211,
       "2025-10-23": 50,
       "2025-10-22": 15,
       "2025-10-20": 32,
@@ -97,8 +97,7 @@
       "2025-03-17": 34,
       "2025-03-12": 15,
       "2025-03-07": 41,
-      "2025-03-06": 39,
-      "2025-03-05": 16
+      "2025-03-06": 39
     }
   },
   {
@@ -106,10 +105,10 @@
     "url": "https://findabooktoread.com/",
     "icon": "https://icons.duckduckgo.com/ip3/findabooktoread.com.ico",
     "slug": "findabooktoread-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "85.77%",
-    "uptimeWeek": "97.00%",
+    "uptimeDay": "85.62%",
+    "uptimeWeek": "96.97%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.49%",
     "time": 358,
@@ -118,7 +117,7 @@
     "timeMonth": 689,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-10-26": 205,
+      "2025-10-26": 207,
       "2025-10-23": 50,
       "2025-10-22": 15,
       "2025-10-20": 32,
@@ -201,8 +200,7 @@
       "2025-03-17": 34,
       "2025-03-12": 15,
       "2025-03-07": 41,
-      "2025-03-06": 39,
-      "2025-03-05": 16
+      "2025-03-06": 39
     }
   },
   {
@@ -210,10 +208,10 @@
     "url": "https://pianos.pub/",
     "icon": "https://icons.duckduckgo.com/ip3/pianos.pub.ico",
     "slug": "pianos-pub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "98.17%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "98.15%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.59%",
     "time": 490,
@@ -222,7 +220,7 @@
     "timeMonth": 670,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2025-10-26": 87,
+      "2025-10-26": 89,
       "2025-10-23": 50,
       "2025-10-22": 15,
       "2025-10-20": 32,
@@ -306,8 +304,7 @@
       "2025-03-06": 39,
       "2025-03-05": 16,
       "2025-03-04": 37,
-      "2025-03-02": 20,
-      "2025-02-28": 22
+      "2025-03-02": 20
     }
   },
   {
@@ -444,7 +441,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.poetrygenerator.ninja.ico",
     "slug": "www-poetrygenerator-ninja",
     "status": "down",
-    "uptime": "64.76%",
+    "uptime": "64.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -455,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 786,
+      "2025-10-26": 1158,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -829,9 +826,9 @@
     "slug": "norns-online",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "93.48%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "94.45%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.92%",
     "time": 347,
     "timeDay": 4734,
@@ -839,7 +836,7 @@
     "timeMonth": 1024,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2025-10-26": 94,
+      "2025-10-26": 80,
       "2025-02-15": 27,
       "2025-02-12": 60,
       "2025-01-17": 229
@@ -873,10 +870,10 @@
     "url": "https://cowyo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cowyo.com.ico",
     "slug": "cowyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 486,
@@ -885,7 +882,7 @@
     "timeMonth": 551,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-10-26": 38,
+      "2025-10-26": 39,
       "2025-02-15": 33,
       "2025-02-12": 58,
       "2025-01-17": 200,
