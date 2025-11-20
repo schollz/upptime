@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/getcroc.schollz.com.ico",
     "slug": "getcroc-schollz-com",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "99.57%",
     "time": 319,
-    "timeDay": 256,
-    "timeWeek": 239,
-    "timeMonth": 607,
+    "timeDay": 296,
+    "timeWeek": 250,
+    "timeMonth": 611,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-11-19": 8,
       "2025-11-17": 16,
       "2025-11-12": 37,
       "2025-11-08": 33,
@@ -100,7 +99,8 @@
       "2025-04-01": 45,
       "2025-03-28": 16,
       "2025-03-26": 41,
-      "2025-03-24": 16
+      "2025-03-24": 16,
+      "2025-03-22": 22
     }
   },
   {
@@ -110,17 +110,16 @@
     "slug": "findabooktoread-com",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.47%",
     "time": 370,
-    "timeDay": 233,
-    "timeWeek": 258,
-    "timeMonth": 1007,
+    "timeDay": 248,
+    "timeWeek": 262,
+    "timeMonth": 1013,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-11-19": 8,
       "2025-11-17": 16,
       "2025-11-12": 37,
       "2025-11-08": 33,
@@ -204,7 +203,8 @@
       "2025-04-09": 17,
       "2025-04-04": 17,
       "2025-04-01": 45,
-      "2025-03-28": 16
+      "2025-03-28": 16,
+      "2025-03-26": 41
     }
   },
   {
@@ -214,17 +214,16 @@
     "slug": "pianos-pub",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.58%",
     "time": 498,
-    "timeDay": 289,
-    "timeWeek": 432,
+    "timeDay": 345,
+    "timeWeek": 435,
     "timeMonth": 872,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-11-19": 8,
       "2025-11-17": 16,
       "2025-11-12": 37,
       "2025-11-08": 33,
@@ -310,7 +309,8 @@
       "2025-03-26": 41,
       "2025-03-24": 16,
       "2025-03-22": 22,
-      "2025-03-21": 15
+      "2025-03-21": 15,
+      "2025-03-18": 16
     }
   },
   {
@@ -320,17 +320,16 @@
     "slug": "schollz-com",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.59%",
     "time": 297,
-    "timeDay": 247,
-    "timeWeek": 240,
-    "timeMonth": 467,
+    "timeDay": 285,
+    "timeWeek": 246,
+    "timeMonth": 469,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2025-11-19": 8,
       "2025-11-17": 16,
       "2025-11-12": 37,
       "2025-11-08": 33,
@@ -415,7 +414,8 @@
       "2025-03-28": 16,
       "2025-03-26": 41,
       "2025-03-24": 16,
-      "2025-03-22": 22
+      "2025-03-22": 22,
+      "2025-03-21": 15
     }
   },
   {
@@ -429,10 +429,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.90%",
-    "time": 456,
-    "timeDay": 229,
-    "timeWeek": 283,
-    "timeMonth": 945,
+    "time": 457,
+    "timeDay": 326,
+    "timeWeek": 303,
+    "timeMonth": 946,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2025-10-28": 75,
@@ -460,7 +460,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 1370,
+      "2025-11-20": 33,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -823,8 +824,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -839,8 +839,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.92%",
     "time": 356,
-    "timeDay": 188,
-    "timeWeek": 207,
+    "timeDay": 271,
+    "timeWeek": 232,
     "timeMonth": 1089,
     "timeYear": 395,
     "dailyMinutesDown": {
@@ -863,9 +863,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.92%",
     "time": 541,
-    "timeDay": 296,
-    "timeWeek": 337,
-    "timeMonth": 1443,
+    "timeDay": 458,
+    "timeWeek": 357,
+    "timeMonth": 1444,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2025-10-28": 73,
@@ -887,10 +887,10 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.91%",
     "time": 471,
-    "timeDay": 254,
-    "timeWeek": 307,
+    "timeDay": 421,
+    "timeWeek": 345,
     "timeMonth": 740,
-    "timeYear": 517,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2025-10-28": 35,
       "2025-10-26": 53,
@@ -912,9 +912,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
     "time": 399,
-    "timeDay": 217,
-    "timeWeek": 246,
-    "timeMonth": 1145,
+    "timeDay": 222,
+    "timeWeek": 259,
+    "timeMonth": 1143,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-10-28": 22,
@@ -932,17 +932,16 @@
     "slug": "pikocore",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.58%",
     "time": 344,
-    "timeDay": 271,
-    "timeWeek": 291,
-    "timeMonth": 564,
+    "timeDay": 302,
+    "timeWeek": 297,
+    "timeMonth": 567,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2025-11-19": 8,
       "2025-11-17": 16,
       "2025-11-12": 37,
       "2025-11-08": 33,
@@ -1030,7 +1029,8 @@
       "2025-03-24": 16,
       "2025-03-22": 22,
       "2025-03-21": 15,
-      "2025-03-18": 16
+      "2025-03-18": 16,
+      "2025-03-17": 16
     }
   },
   {
@@ -1045,9 +1045,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 443,
-    "timeDay": 248,
-    "timeWeek": 291,
-    "timeMonth": 1415,
+    "timeDay": 317,
+    "timeWeek": 312,
+    "timeMonth": 1417,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-10-26": 36,
