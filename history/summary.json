@@ -6,17 +6,16 @@
     "slug": "getcroc-schollz-com",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.57%",
     "time": 319,
-    "timeDay": 236,
-    "timeWeek": 279,
-    "timeMonth": 630,
+    "timeDay": 310,
+    "timeWeek": 290,
+    "timeMonth": 631,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-11-25": 8,
       "2025-11-22": 25,
       "2025-11-17": 16,
       "2025-11-12": 37,
@@ -100,7 +99,8 @@
       "2025-04-04": 17,
       "2025-04-01": 45,
       "2025-03-28": 16,
-      "2025-03-26": 41
+      "2025-03-26": 41,
+      "2025-03-24": 16
     }
   },
   {
@@ -110,17 +110,16 @@
     "slug": "findabooktoread-com",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.47%",
     "time": 369,
-    "timeDay": 256,
-    "timeWeek": 276,
+    "timeDay": 292,
+    "timeWeek": 281,
     "timeMonth": 1042,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-11-25": 8,
       "2025-11-22": 25,
       "2025-11-17": 16,
       "2025-11-12": 37,
@@ -204,7 +203,8 @@
       "2025-04-10": 6,
       "2025-04-09": 17,
       "2025-04-04": 17,
-      "2025-04-01": 45
+      "2025-04-01": 45,
+      "2025-03-28": 16
     }
   },
   {
@@ -214,17 +214,16 @@
     "slug": "pianos-pub",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.58%",
     "time": 500,
-    "timeDay": 431,
-    "timeWeek": 397,
+    "timeDay": 402,
+    "timeWeek": 413,
     "timeMonth": 882,
-    "timeYear": 506,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-11-25": 8,
       "2025-11-22": 25,
       "2025-11-17": 16,
       "2025-11-12": 37,
@@ -310,7 +309,8 @@
       "2025-03-28": 16,
       "2025-03-26": 41,
       "2025-03-24": 16,
-      "2025-03-22": 22
+      "2025-03-22": 22,
+      "2025-03-21": 15
     }
   },
   {
@@ -320,17 +320,16 @@
     "slug": "schollz-com",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.59%",
     "time": 297,
-    "timeDay": 224,
-    "timeWeek": 274,
-    "timeMonth": 484,
+    "timeDay": 244,
+    "timeWeek": 282,
+    "timeMonth": 483,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2025-11-25": 8,
       "2025-11-22": 25,
       "2025-11-17": 16,
       "2025-11-12": 37,
@@ -415,7 +414,8 @@
       "2025-04-01": 45,
       "2025-03-28": 16,
       "2025-03-26": 41,
-      "2025-03-24": 16
+      "2025-03-24": 16,
+      "2025-03-22": 22
     }
   },
   {
@@ -430,8 +430,8 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.90%",
     "time": 456,
-    "timeDay": 233,
-    "timeWeek": 308,
+    "timeDay": 312,
+    "timeWeek": 319,
     "timeMonth": 944,
     "timeYear": 505,
     "dailyMinutesDown": {
@@ -449,7 +449,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.poetrygenerator.ninja.ico",
     "slug": "www-poetrygenerator-ninja",
     "status": "down",
-    "uptime": "63.44%",
+    "uptime": "63.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -460,7 +460,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 1305,
+      "2025-11-26": 34,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -823,8 +824,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -839,8 +839,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.92%",
     "time": 356,
-    "timeDay": 295,
-    "timeWeek": 281,
+    "timeDay": 264,
+    "timeWeek": 292,
     "timeMonth": 1094,
     "timeYear": 396,
     "dailyMinutesDown": {
@@ -863,10 +863,10 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.92%",
     "time": 541,
-    "timeDay": 294,
-    "timeWeek": 431,
-    "timeMonth": 1448,
-    "timeYear": 583,
+    "timeDay": 380,
+    "timeWeek": 443,
+    "timeMonth": 1446,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2025-10-28": 73,
       "2025-10-26": 45,
@@ -887,10 +887,10 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.91%",
     "time": 472,
-    "timeDay": 278,
-    "timeWeek": 385,
-    "timeMonth": 737,
-    "timeYear": 518,
+    "timeDay": 457,
+    "timeWeek": 414,
+    "timeMonth": 739,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2025-10-28": 35,
       "2025-10-26": 53,
@@ -912,9 +912,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
     "time": 399,
-    "timeDay": 229,
-    "timeWeek": 270,
-    "timeMonth": 1143,
+    "timeDay": 243,
+    "timeWeek": 274,
+    "timeMonth": 1141,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-10-28": 22,
@@ -932,17 +932,16 @@
     "slug": "pikocore",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.58%",
     "time": 344,
-    "timeDay": 258,
-    "timeWeek": 297,
+    "timeDay": 340,
+    "timeWeek": 306,
     "timeMonth": 579,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-11-25": 8,
       "2025-11-22": 25,
       "2025-11-17": 16,
       "2025-11-12": 37,
@@ -1030,7 +1029,8 @@
       "2025-03-26": 41,
       "2025-03-24": 16,
       "2025-03-22": 22,
-      "2025-03-21": 15
+      "2025-03-21": 15,
+      "2025-03-18": 16
     }
   },
   {
@@ -1045,9 +1045,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 443,
-    "timeDay": 242,
-    "timeWeek": 334,
-    "timeMonth": 1427,
+    "timeDay": 362,
+    "timeWeek": 350,
+    "timeMonth": 1428,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-10-26": 36,
